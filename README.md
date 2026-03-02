@@ -2,4 +2,5 @@
 
 ## Why *Hruritiz*? Its It comes from the word Eureka, discover something new with us.
 
-#### (C) 2019 HyperEureka Co. / Hruritiz Team. / PlumpPenguin Tech. All Rights Reserved.
+
+#### (C) 2024 Hruritiz Team. / PlumpPenguin Tech. All Rights Reserved.
