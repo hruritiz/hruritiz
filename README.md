@@ -3,6 +3,6 @@
 ## Why *Hruritiz*? Inspired by the word *“Eureka”*, Hruritiz represents discovery, innovation, and the excitement of finding something new with us.
 
 
-#### (C) 2024 Hruritiz Team. / PlumpPenguin Tech. All Rights Reserved.
+#### (C) 2024 Hruritiz Team. All Rights Reserved.
 
 
